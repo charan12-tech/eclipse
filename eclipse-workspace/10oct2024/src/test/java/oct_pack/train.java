@@ -29,7 +29,7 @@ public class train {
 		
 			
 		}
-		System.out.println("end date is "+end_train);
+		System.out.println("Training end date is "+end_train);
 
 	}
 
