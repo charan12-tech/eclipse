@@ -9,6 +9,7 @@ public class strexample {
 		System.out.println(str1);
 		System.out.println(str2);
 		
+		
 		System.out.println("java "+str1);
 		
 		System.out.println("length of str2 is "+str2.length());
