@@ -1,4 +1,4 @@
-package oct_pack;
+package Lab2.ques2;
 
 public class Savings_Account extends Account {
 
